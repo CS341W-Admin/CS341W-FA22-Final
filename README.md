@@ -22,4 +22,9 @@ _NOTE: This codebase already has a BookData.json file._
 3. On the books page/view, render a simple presentation of the following elements (along with a label) for each book:
 - Title
 - Author
-- 
+- Description
+
+## Git Finish
+1. Add and commit all files locally
+2. Push your code back up to GitHub Classroom
+3. Submit the git URL on Canvas: [Assignment Link](https://masters.instructure.com/courses/14571/assignments/353017?module_item_id=760536)
