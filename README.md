@@ -22,7 +22,7 @@ _NOTE: This codebase already has a BookData.json file._
 3. On the books page/view, render a simple presentation of the following elements (along with a label) for each book:
 - Title
 - Author
-- Description
+- Summary
 
 ## Git Finish
 1. Add and commit all files locally
