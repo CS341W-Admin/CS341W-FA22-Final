@@ -46,5 +46,3 @@ const books = [
       "A farewell speech from Moses to the people of Israel shortly before his death, Deuteronomy recaps the promises of God and provides instructions to obey Him in the Promised Land.",
   },
 ];
-
-module.exports = { books };
