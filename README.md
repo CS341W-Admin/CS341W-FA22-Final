@@ -16,7 +16,7 @@ _NOTE: You can create a React application or an Express with Handlebars applicat
 3. Provide navigational links that allow the user to go between these two pages/views. 
 
 ## Display the Books Data
-_NOTE: This codebase already has a BookData.json file._ 
+_NOTE: This codebase already has a BookData.js file._ 
 1. Import the provided book data into your books page/view. You can either import the file directly or create a specific named export/import. (_You may not copy/paste the data into the view._)
 2. Use templating (if using Express-Handlebars) or components (if using React) to iterate over the books object. 
 3. On the books page/view, render a simple presentation of the following elements (along with a label) for each book:
